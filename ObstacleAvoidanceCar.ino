@@ -70,7 +70,7 @@ void loop() {
       stopMotors();
     }
   } else {
-    // there is >15 cm in front of it, keep going
+    // there is >18 cm in front of it, keep going
     forward();
   }
 
@@ -189,4 +189,5 @@ void motorTest() {
   delay(2000);
   stopMotors();
   delay(500);
+
 }
