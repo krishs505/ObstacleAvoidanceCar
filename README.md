@@ -5,11 +5,13 @@ The robot detects obstacles, chooses the best direction to turn, and moves forwa
 
 ## Features
 - **Forward movement with gradual acceleration** to prevent battery strain.
-- **Automatic obstacle detection** using an ultrasonic sensor (HC-SR04).
+- **Autonomous obstacle detection control system** using ultrasonic sensor feedback (HC-SR04).
 - **Servo-mounted sensor scanning** to check left and right distances.
 - **Decision-making** to turn toward the direction with more space.
-- **Basic movement functions**: forward, backward, left, right, stop.
-- **Motor test mode** for debugging.
+
+<img width="500" height="369" alt="image" src="https://github.com/user-attachments/assets/e6501f7b-c327-4f14-899d-bcf9fcb72406" />
+<img width="341" height="369" alt="image" src="https://github.com/user-attachments/assets/0d841a02-7eb0-445d-9cca-c2daea90daf0" />
+Unfortunately, I forgot to take clearer pictures, sorry about that. These are from a video of an older version of the robot. The hardware remained the same.
 
 ## Hardware Requirements
 - Arduino Uno
