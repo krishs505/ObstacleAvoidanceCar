@@ -1,7 +1,6 @@
 # ObstacleAvoidanceCar
 
-This Arduino project controls a four-motor robot equipped with an ultrasonic sensor mounted on a servo.  
-The robot detects obstacles, chooses the best direction to turn, and moves forward while avoiding collisions.
+This Arduino four-motor robot is equipped with a closed-loop obstacle avoidance system using an ultrasonic sensor mounted on a servo. It detects upcoming obstacles and chooses the optimal direction to turn and avoid collisions.
 
 ## Features
 - **Forward movement with gradual acceleration** to prevent battery strain.
