@@ -141,7 +141,7 @@ int findDistance() {
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
 
-  // read the travel time of the sound save
+  // read the travel time of the sound wave
   duration = pulseIn(echoPin, HIGH);
 
   // calculate distance based on speed of sound (0.034 cm/microsec)
@@ -191,3 +191,4 @@ void motorTest() {
   delay(500);
 
 }
+
