@@ -11,7 +11,7 @@ This Arduino four-motor robot is equipped with a closed-loop obstacle avoidance 
 <img width="500" height="369" alt="image" src="https://github.com/user-attachments/assets/e6501f7b-c327-4f14-899d-bcf9fcb72406" />
 <img width="341" height="369" alt="image" src="https://github.com/user-attachments/assets/0d841a02-7eb0-445d-9cca-c2daea90daf0" />
 
-Unfortunately, I forgot to take clearer pictures, sorry about that. These are from a video of an older version of the robot. The hardware remained the same.
+Apologies for the blurry photos, they are taken from a video of an older, RC version of the robot. The hardware remained the same though, as listed below.
 
 ## Hardware Requirements
 - Arduino Uno
